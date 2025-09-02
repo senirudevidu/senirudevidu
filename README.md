@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seniru Devidu</h1>
 <h3 align="center">Computer Science Undergraduate University of Colombo School of Computing (UCSC)</h3>
 
-- 🌱 I’m currently learning **Flutter, React**
+- 🌱 I’m currently into Academia
 
 - 📝 I regularly write articles on [https://medium.com/@senirusenaweera](https://medium.com/@senirusenaweera)
 
